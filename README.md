@@ -1,0 +1,2 @@
+# ror
+smart classes project
